@@ -1,0 +1,11 @@
+
+<resources>
+    <string name="app_name">Capstone</string>
+    <string-array name="plants">
+        <item>plant 1</item>
+        <item>plant 2</item>
+        <item>plant 3</item>
+        <item>plant 4</item>
+        <item>plant 5</item>
+    </string-array>
+</resources>
